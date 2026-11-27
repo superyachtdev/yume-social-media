@@ -1,0 +1,33 @@
+name: Build and schedule Yume carousels
+
+on:
+  push:
+    branches: [main]
+    paths: ["posts/**/post.json", "scripts/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: yume-build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install playwright==1.48.0 requests
+      - name: Render slides and schedule in Zernio
+        env:
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+          CHROME_CHANNEL: chrome
+        run: |
+          git config user.name "yume-bot"
+          git config user.email "yume-bot@users.noreply.github.com"
+          python scripts/build.py
