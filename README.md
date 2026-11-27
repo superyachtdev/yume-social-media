@@ -45,5 +45,6 @@ A post folder with `zernio.json` is done. To redo one, delete it from Zernio and
 - `img`: `commons:File:<name>` (exact Commons file), `search:<words>` (first suitable openly licensed Commons photo), an `https://` URL, or a repo path.
 - Photo credits for Commons images are written automatically (`credit_place` is put in front). Give `credit` yourself for any other photo.
 - `fy` (0–1) moves the photo crop up or down.
+- `"hold": true` renders and commits the slides without scheduling, so they can be checked first. Remove it (or set false) and push to schedule.
 
 Run locally: `pip install playwright requests && python scripts/build.py --render-only <post-folder>`.

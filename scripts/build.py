@@ -167,6 +167,10 @@ def main():
             files = render(resolve_slides(post), d / "slides")
             if render_only:
                 continue
+            if post.get("hold"):
+                commit_push(files, f"Render slides for {d.name} (held for review)")
+                log("  held for review: set hold to false to schedule")
+                continue
             commit_push(files, f"Render slides for {d.name}")
             result = schedule(d.name, post, files)
             (d / "zernio.json").write_text(json.dumps(result, indent=2) + "\n")
