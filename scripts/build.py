@@ -141,7 +141,7 @@ def schedule(post_id, post, files):
             "scheduledFor": post["scheduled_for"], "timezone": tz,
             "tags": ["yume-carousel", post.get("topic_slug", post_id)], "externalId": post_id}
     r = requests.post(f"{ZERNIO}/posts", json=body, timeout=120,
-                      headers={"Authorization": f"Bearer {os.environ['ZERNIO_API_KEY']}", "Idempotency-Key": "yume-" + post_id})
+                      headers={"Authorization": f"Bearer {os.environ['ZERNIO_API_KEY']}", "Idempotency-Key": "yume-" + post_id + "-" + post.get("_hash", "")})
     if r.status_code >= 300:
         raise RuntimeError(f"Zernio {r.status_code}: {r.text[:500]}")
     data = r.json().get("post", r.json())
@@ -162,6 +162,7 @@ def main():
         log(f"== {d.name}")
         try:
             post = json.loads(pj.read_text())
+            post["_hash"] = __import__("hashlib").sha1(pj.read_bytes()).hexdigest()[:10]
             assert len(post["slides"]) >= 3 and post["caption"].strip()
             files = render(resolve_slides(post), d / "slides")
             if render_only:
