@@ -2,7 +2,6 @@
  "scheduled_for": "2026-11-27T20:00:00",
  "timezone": "Europe/Madrid",
  "topic_slug": "only-in-bali",
- "hold": true,
  "caption": "5 things that only happen in Bali ✨ Save this for your trip.\n\n05 Everyone's called Wayan, Made, Nyoman or Ketut (it's birth order)\n04 Rice terraces share water through 1,000-year-old temple networks\n03 Every 210 days, bamboo penjor line the streets for Galungan\n02 People sleep with their heads towards the mountain\n01 An orchestra of voices, no instruments, on a clifftop at sunset\n\nNumber 1 is the Kecak at Uluwatu, a short drive from Yume by Nyara: three private-pool villas above Bingin. Link in bio to book your stay in Bali.\n\n#bali #balifacts #balinese #balitravel #uluwatu #kecak #bingin #balivilla #yumebynyara",
  "slides": [
   {
@@ -38,14 +37,15 @@
   },
   {
    "kind": "item",
-   "img": "search:penjor Galungan Bali",
+   "img": "commons:File:Penjors lining a public street in Bali.jpg",
    "credit_place": "Penjor",
    "num": "03",
    "place": "GALUNGAN",
    "h1": "Bamboo poles",
    "h1it": "on every street?",
    "answer": "It's Galungan.",
-   "body": "Bali runs on its own 210-day calendar. Each cycle, families raise tall, decorated penjor for Galungan, ten days of celebration. The next one starts on 13 January 2027."
+   "body": "Bali runs on its own 210-day calendar. Each cycle, families raise tall, decorated penjor for Galungan, ten days of celebration. The next one starts on 13 January 2027.",
+   "fy": 0.45
   },
   {
    "kind": "item",

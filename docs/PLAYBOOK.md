@@ -19,10 +19,13 @@ Make item N° 01 tie back to Yume where honest (near Bingin/Uluwatu), so the CTA
 Fonts: Cormorant Garamond + Manrope. Colours: #0F0F0F, #4A3A2C, #F0EEE9, #5C5C5C.
 
 ## Content rules
-- Travel-adjacent Bali content for people planning a trip (beaches, etiquette, food, day trips, surf, sunsets, seasons, costs, packing, myths, Uluwatu/Bukit focus). Facts must be checked with web search before use; no invented numbers.
-- Photos: Wikimedia Commons via the API (search, check licence). Prefer CC0 / public domain / CC BY; avoid CC BY-SA if a good alternative exists. Credit every non-Yume photo on its slide: "Place. Photo: Author, LICENCE, via Wikimedia Commons". Use thumb URLs at 1280px (thumb.wikimedia.org/.../1280px-...). Never use photos of identifiable private people as the subject.
-- Never repeat a topic in the log below or in Zernio posts tagged yume-carousel.
-- Caption: hook line, the 5 items as a short list (05→01), one Yume line + "Link in bio to book your stay in Bali.", 6-10 hashtags.
+**Tone: always show Bali in a good light.** Every carousel should make people fall a little more in love with Bali and want to go. Inform and delight: fun facts, little-known places, beautiful traditions, food, nature, "did you know" moments. Content people save, share and send to the friend they're travelling with.
+- **Never** frame posts around mistakes, scams, warnings, dangers, police, fines, crowds, tourist problems or anything that makes Bali look bad or stressful. Practical tips are fine only when framed positively ("how to…", "the best time to…").
+- Aim for viral hooks: curiosity ("5 things that only happen in Bali"), lists of hidden or beautiful places, surprising facts, "you've been saying it wrong", "save this for your trip", rankings, local secrets, seasonal moments (festivals, sunsets, mango season).
+- Topic ideas: hidden beaches; fun facts about Balinese culture; festivals and the 210-day calendar; Balinese food to try; sunset spots on the Bukit; waterfalls; rice terraces; temples by the sea; surf breaks for watching; Bahasa/Balinese words to learn; things to do in Uluwatu; day trips from Bingin; nature and wildlife; crafts and villages; Balinese dance; coffee and cacao; best months for each experience.
+- Item 01 ties back honestly to Uluwatu/Bingin/the Bukit so the Yume CTA follows naturally; the content itself is never an ad.
+- Every fact checked with web search; no invented numbers. Respectful about religion and culture.
+- Caption: hook line, the 5 items as a short list (05→01), one Yume line + "Link in bio to book your stay in Bali.", 6-10 hashtags. No emoji except at most one.
 
 ## Pipeline
 Write `posts/<YYYY-MM-DD-HHMM-topic-slug>/post.json` (format in README.md) and push to `main`. The GitHub Action renders the slides and schedules the post in Zernio. Every folder under `posts/` is a past or queued topic: never repeat one.
