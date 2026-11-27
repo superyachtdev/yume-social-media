@@ -1,0 +1,83 @@
+{
+ "scheduled_for": "2026-11-27T20:00:00",
+ "timezone": "Europe/Madrid",
+ "topic_slug": "only-in-bali",
+ "hold": true,
+ "caption": "5 things that only happen in Bali ✨ Save this for your trip.\n\n05 Everyone's called Wayan, Made, Nyoman or Ketut (it's birth order)\n04 Rice terraces share water through 1,000-year-old temple networks\n03 Every 210 days, bamboo penjor line the streets for Galungan\n02 People sleep with their heads towards the mountain\n01 An orchestra of voices, no instruments, on a clifftop at sunset\n\nNumber 1 is the Kecak at Uluwatu, a short drive from Yume by Nyara: three private-pool villas above Bingin. Link in bio to book your stay in Bali.\n\n#bali #balifacts #balinese #balitravel #uluwatu #kecak #bingin #balivilla #yumebynyara",
+ "slides": [
+  {
+   "kind": "hook",
+   "img": "search:Pura Ulun Danu Bratan",
+   "credit_place": "Ulun Danu Bratan",
+   "eyebrow": "BALI · FUN FACTS",
+   "h1": "5 things that",
+   "h1it": "only happen in Bali.",
+   "sub": "Number 1 happens every evening, a short drive from our villas."
+  },
+  {
+   "kind": "item",
+   "img": "search:Balinese temple gate candi bentar",
+   "credit_place": "Bali",
+   "num": "05",
+   "place": "NAMES",
+   "h1": "Why is everyone",
+   "h1it": "called Wayan?",
+   "answer": "It's your place in the family.",
+   "body": "First-borns are Wayan (or Putu, Gede), then come Made, Nyoman and Ketut. Child number five? Wayan Balik: “Wayan again”."
+  },
+  {
+   "kind": "item",
+   "img": "commons:File:Tegallalang Rice Terraces Bali 1.jpg",
+   "credit_place": "Tegallalang",
+   "num": "04",
+   "place": "SUBAK",
+   "h1": "Who shares",
+   "h1it": "the water?",
+   "answer": "The temples do.",
+   "body": "Bali's rice terraces run on subak, a farmer-led water system dating back to the 9th century. Water temples guide it, and UNESCO listed the landscape in 2012."
+  },
+  {
+   "kind": "item",
+   "img": "search:penjor Galungan Bali",
+   "credit_place": "Penjor",
+   "num": "03",
+   "place": "GALUNGAN",
+   "h1": "Bamboo poles",
+   "h1it": "on every street?",
+   "answer": "It's Galungan.",
+   "body": "Bali runs on its own 210-day calendar. Each cycle, families raise tall, decorated penjor for Galungan, ten days of celebration. The next one starts on 13 January 2027."
+  },
+  {
+   "kind": "item",
+   "img": "search:Mount Agung Bali",
+   "credit_place": "Mount Agung",
+   "num": "02",
+   "place": "KAJA · KELOD",
+   "h1": "Which way",
+   "h1it": "do you sleep?",
+   "answer": "Head towards the mountain.",
+   "body": "Balinese life is oriented around the mountains, above all Mount Agung. Family temples sit on the mountain side, and people sleep with their heads facing that way, called kaja."
+  },
+  {
+   "kind": "item",
+   "img": "search:Kecak dance Uluwatu",
+   "credit_place": "Uluwatu",
+   "num": "01",
+   "place": "KECAK · ULUWATU",
+   "h1": "An orchestra",
+   "h1it": "with no instruments?",
+   "answer": "Just voices, at sunset.",
+   "body": "Every evening around 6pm, a circle of men chants the Kecak on a clifftop beside Uluwatu Temple, telling the Ramayana as the sun goes down. It's a short drive from Yume."
+  },
+  {
+   "kind": "cta",
+   "img": "https://nyarastays.co/assets/images/yume/villas/villa-tiga-main.jpg",
+   "credit": "Villa Tiga, Yume by Nyara, Bingin",
+   "eyebrow": "SEE IT FOR YOURSELF",
+   "h1": "Come home",
+   "h1it": "to Yume.",
+   "body": "Three private-pool villas on the clifftops of Bingin, four minutes on foot from Impossible Beach. From USD 135 a night.",
+   "button": "Link in bio to book your stay in Bali"
+  }
+ ]
+}
