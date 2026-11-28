@@ -1,0 +1,83 @@
+{
+ "scheduled_for": "2026-11-28T20:00:00",
+ "timezone": "Europe/Madrid",
+ "topic_slug": "balinese-food",
+ "hold": true,
+ "caption": "5 Balinese dishes to eat before you leave. Save this for your trip.\n\n05 Sate lilit: wrapped round lemongrass, not threaded\n04 Bebek betutu: duck slow-cooked in coconut-husk embers\n03 Lawar: chopped together by the whole village\n02 Babi guling: “the best pig I have ever had”, said Anthony Bourdain\n01 Jimbaran seafood: grilled over coconut husks, eaten on the sand\n\nNumber 1 is a short drive from Yume by Nyara, our three private-pool villas above Bingin. Link in bio to book your stay in Bali.\n\n#bali #balifood #balinesefood #babiguling #satelilit #jimbaran #uluwatu #bingin #balivilla #yumebynyara",
+ "slides": [
+  {
+   "kind": "hook",
+   "img": "commons:File:Nasi_Campur_Bali.jpg",
+   "credit_place": "Nasi campur",
+   "eyebrow": "Save this for your trip",
+   "h1": "5 Balinese dishes",
+   "h1it": "to eat before you leave.",
+   "sub": "Number 1 comes with your toes in the sand."
+  },
+  {
+   "kind": "item",
+   "img": "commons:File:Sate_Lilit.jpg",
+   "num": "05",
+   "label": "05 · Sate lilit",
+   "h1": "Why no",
+   "h1it": "skewer?",
+   "answer": "It's wrapped, not threaded.",
+   "body": "Lilit means “to wrap around”. Spiced minced fish or pork is wound around a lemongrass stalk, then grilled.",
+   "credit_place": "Sate lilit"
+  },
+  {
+   "kind": "item",
+   "img": "commons:File:Bebek_Betutu.jpg",
+   "num": "04",
+   "label": "04 · Bebek betutu",
+   "h1": "Worth",
+   "h1it": "the wait?",
+   "answer": "Every slow hour of it.",
+   "body": "Duck stuffed with turmeric, galangal and chilli, wrapped in leaves and cooked over smouldering coconut husk. Once kept for temple ceremonies.",
+   "credit_place": "Bebek betutu"
+  },
+  {
+   "kind": "item",
+   "img": "search:Lawar Bali food",
+   "num": "03",
+   "label": "03 · Lawar",
+   "h1": "Who makes",
+   "h1it": "the lawar?",
+   "answer": "The whole village.",
+   "body": "Minced meat, young jackfruit or beans, grated coconut and base genep spices, chopped by many hands before Galungan and Kuningan.",
+   "credit_place": "Lawar"
+  },
+  {
+   "kind": "item",
+   "img": "commons:File:Babi_Guling-Roast_suckling_pig-01.jpg",
+   "num": "02",
+   "label": "02 · Babi guling",
+   "h1": "Best pig",
+   "h1it": "ever?",
+   "answer": "Anthony Bourdain thought so.",
+   "body": "Filming in Bali in 2006, he called it “the best pig I have ever had”. It's rubbed with base genep and turned slowly over charcoal.",
+   "credit_place": "Babi guling"
+  },
+  {
+   "kind": "item",
+   "img": "commons:File:Jimbaran_beach_at_sunset.jpg",
+   "num": "01",
+   "label": "01 · Jimbaran Bay",
+   "h1": "Dinner",
+   "h1it": "on the sand?",
+   "answer": "Every evening in Jimbaran.",
+   "body": "Fish and clams grilled over coconut husks, tables on the beach as the sun goes down. A short drive from Bingin, where the Bukit begins.",
+   "credit_place": "Jimbaran Bay"
+  },
+  {
+   "kind": "cta",
+   "img": "https://nyarastays.co/assets/images/yume/villas/villa-satu-main.jpg",
+   "credit": "Villa Satu, Yume by Nyara, Bingin",
+   "eyebrow": "Now you know what to order",
+   "h1": "Come home",
+   "h1it": "to Yume.",
+   "body": "Three private-pool villas on the clifftops of Bingin, a short drive from Jimbaran Bay. From USD 135 a night.",
+   "button": "Link in bio to book your stay in Bali"
+  }
+ ]
+}

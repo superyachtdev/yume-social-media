@@ -1,0 +1,83 @@
+{
+ "scheduled_for": "2026-11-30T09:00:00",
+ "timezone": "Europe/Madrid",
+ "topic_slug": "surf-breaks",
+ "hold": true,
+ "caption": "5 Bali waves worth watching, no board needed. Save this for your trip.\n\n05 Medewi: rides of up to 400 metres\n04 Keramas: surfing under floodlights\n03 Batu Bolong: the longboarders' favourite\n02 Padang Padang: “the Balinese Pipeline”\n01 Bingin: barrels like clockwork at low tide\n\nNumber 1 is a ten-minute walk from Yume by Nyara, our three private-pool villas above Bingin. Link in bio to book your stay in Bali.\n\n#bali #balisurf #uluwatu #bingin #padangpadang #keramas #balitravel #balivilla #yumebynyara",
+ "slides": [
+  {
+   "kind": "hook",
+   "img": "commons:File:Uluwatu_surf_break_landscape_photo_bali_travel_photos_wokshots.jpg",
+   "credit_place": "Uluwatu",
+   "eyebrow": "Save this for your trip",
+   "h1": "5 Bali waves",
+   "h1it": "worth watching.",
+   "sub": "No board needed. Number 1 is a ten-minute walk from our gate."
+  },
+  {
+   "kind": "item",
+   "img": "search:Medewi Bali",
+   "num": "05",
+   "label": "05 · Medewi, west Bali",
+   "h1": "How long",
+   "h1it": "is one ride?",
+   "answer": "Up to 400 metres.",
+   "body": "Medewi is often called Bali's longest left. Early mornings in the dry season are when it shines.",
+   "credit_place": "Medewi"
+  },
+  {
+   "kind": "item",
+   "img": "search:Keramas Bali",
+   "num": "04",
+   "label": "04 · Keramas, east coast",
+   "h1": "Surfing",
+   "h1it": "after dark?",
+   "answer": "Yes, under floodlights.",
+   "body": "A powerful right on the east coast's black sand, with night sessions lit from the shore. It's at its best from November to March.",
+   "credit_place": "Keramas"
+  },
+  {
+   "kind": "item",
+   "img": "commons:File:Canggu_Beach.jpg",
+   "num": "03",
+   "label": "03 · Batu Bolong, Canggu",
+   "h1": "Where do",
+   "h1it": "longboarders go?",
+   "answer": "Batu Bolong.",
+   "body": "Soft waves peel left and right, best at mid to high tide. The wind often drops late in the day, so sunset sessions glide.",
+   "credit_place": "Canggu"
+  },
+  {
+   "kind": "item",
+   "img": "commons:File:Padang_Padang_Beach_Bali.jpg",
+   "num": "02",
+   "label": "02 · Padang Padang, the Bukit",
+   "h1": "Bali's",
+   "h1it": "Pipeline?",
+   "answer": "Padang Padang.",
+   "body": "A barrelling left on the Bukit and home of the Rip Curl Cup Padang Padang, which waits for the best swell each August.",
+   "credit_place": "Padang Padang"
+  },
+  {
+   "kind": "item",
+   "img": "search:Bingin beach Bali",
+   "num": "01",
+   "label": "01 · Bingin, the Bukit",
+   "h1": "Where to",
+   "h1it": "watch Bingin?",
+   "answer": "From the clifftop.",
+   "body": "A short, hollow left that barrels like clockwork at low tide, best from April to October. Yume is a ten-minute walk away.",
+   "credit_place": "Bingin"
+  },
+  {
+   "kind": "cta",
+   "img": "https://nyarastays.co/assets/images/yume/villas/villa-satu-main.jpg",
+   "credit": "Villa Satu, Yume by Nyara, Bingin",
+   "eyebrow": "Now you know where to sit and watch",
+   "h1": "Come home",
+   "h1it": "to Yume.",
+   "body": "Three private-pool villas on the clifftops of Bingin, a ten-minute walk from the wave. From USD 135 a night.",
+   "button": "Link in bio to book your stay in Bali"
+  }
+ ]
+}

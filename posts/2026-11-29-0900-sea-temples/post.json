@@ -1,0 +1,83 @@
+{
+ "scheduled_for": "2026-11-29T09:00:00",
+ "timezone": "Europe/Madrid",
+ "topic_slug": "sea-temples",
+ "hold": true,
+ "caption": "5 Bali temples built by the sea. Save this for your trip.\n\n05 Pura Sakenan: once reached on foot at low tide\n04 Goa Lawah: home to thousands of bats\n03 Rambut Siwi: the temple of a holy lock of hair\n02 Tanah Lot: “land in the sea”\n01 Uluwatu: about 70 metres above the waves\n\nNumber 1 is ten minutes from Yume by Nyara, our three private-pool villas above Bingin. Link in bio to book your stay in Bali.\n\n#bali #balitemple #tanahlot #uluwatu #uluwatutemple #balitravel #bingin #balivilla #yumebynyara",
+ "slides": [
+  {
+   "kind": "hook",
+   "img": "commons:File:Tanah_Lot_beautiful_sunset.jpg",
+   "credit_place": "Tanah Lot",
+   "eyebrow": "Save this for your trip",
+   "h1": "5 Bali temples",
+   "h1it": "built by the sea.",
+   "sub": "Number 1 stands on a cliff about 70 metres above the waves."
+  },
+  {
+   "kind": "item",
+   "img": "search:Pura Sakenan Serangan",
+   "num": "05",
+   "label": "05 · Pura Sakenan, Serangan",
+   "h1": "How did",
+   "h1it": "pilgrims arrive?",
+   "answer": "On foot at low tide, by boat at high.",
+   "body": "The great festival here falls on Kuningan, every 210 days. Its oldest shrines were built from limestone and coral.",
+   "credit_place": "Pura Sakenan"
+  },
+  {
+   "kind": "item",
+   "img": "commons:File:Goa_Lawah_Temple_(17056456652).jpg",
+   "num": "04",
+   "label": "04 · Goa Lawah, Klungkung",
+   "h1": "Who lives",
+   "h1it": "in the cave?",
+   "answer": "Thousands of bats.",
+   "body": "Goa Lawah means “bat cave”. The temple is built around its mouth, and legend says the cave runs right through the mountain.",
+   "credit_place": "Goa Lawah"
+  },
+  {
+   "kind": "item",
+   "img": "search:Pura Rambut Siwi",
+   "num": "03",
+   "label": "03 · Rambut Siwi, Jembrana",
+   "h1": "A temple",
+   "h1it": "of hair?",
+   "answer": "A priest's holy lock.",
+   "body": "Rambut Siwi means “venerated hair”. Legend says the priest Nirartha left a lock of his here, and the fallen walls rose again.",
+   "credit_place": "Rambut Siwi"
+  },
+  {
+   "kind": "item",
+   "img": "commons:File:Tanah-Lot_Bali_Indonesia_Pura-Tanah-Lot-01.jpg",
+   "num": "02",
+   "label": "02 · Tanah Lot, Tabanan",
+   "h1": "Land",
+   "h1it": "in the sea?",
+   "answer": "That's the name.",
+   "body": "Tanah Lot sits on a rock in the surf. At low tide you can walk towards it, and legend says sea snakes guard its base.",
+   "credit_place": "Tanah Lot"
+  },
+  {
+   "kind": "item",
+   "img": "commons:File:Uluwatu_Temple_at_Sunset.jpg",
+   "num": "01",
+   "label": "01 · Uluwatu, the Bukit",
+   "h1": "How high",
+   "h1it": "is Uluwatu?",
+   "answer": "About 70 metres up.",
+   "body": "Pura Luhur Uluwatu crowns a cliff at the Bukit's south-western tip, one of Bali's directional temples. Ten minutes from Bingin.",
+   "credit_place": "Uluwatu"
+  },
+  {
+   "kind": "cta",
+   "img": "https://nyarastays.co/assets/images/yume/villas/villa-tiga-main.jpg",
+   "credit": "Villa Tiga, Yume by Nyara, Bingin",
+   "eyebrow": "Now you know where to watch the sunset",
+   "h1": "Come home",
+   "h1it": "to Yume.",
+   "body": "Three private-pool villas on the clifftops of Bingin, ten minutes from Uluwatu Temple. From USD 135 a night.",
+   "button": "Link in bio to book your stay in Bali"
+  }
+ ]
+}

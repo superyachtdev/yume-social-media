@@ -1,0 +1,83 @@
+{
+ "scheduled_for": "2026-11-29T20:00:00",
+ "timezone": "Europe/Madrid",
+ "topic_slug": "balinese-words",
+ "hold": true,
+ "caption": "5 Balinese words to learn before you land. Save this for your trip.\n\n05 Om Swastiastu: hello, and a small blessing\n04 Suksma: thank you\n03 Canang sari: the little daily offerings\n02 Banjar: the village community\n01 Bingin: the banyan tree\n\nNumber 1 is also our corner of the Bukit, home to Yume by Nyara: three private-pool villas on the cliffs. Link in bio to book your stay in Bali.\n\n#bali #balinese #balineseculture #balitravel #learnbalinese #bingin #uluwatu #balivilla #yumebynyara",
+ "slides": [
+  {
+   "kind": "hook",
+   "img": "commons:File:Split_Gate,_Pura_Penataran_Sasih,_Pejeng_1456.jpg",
+   "credit_place": "Pejeng",
+   "eyebrow": "Save this for your trip",
+   "h1": "5 Balinese words",
+   "h1it": "to learn before you land.",
+   "sub": "Number 1 is the name of our corner of the island."
+  },
+  {
+   "kind": "item",
+   "img": "commons:File:Penjor_Galungan_Ubud_Bali_20120906b.jpg",
+   "num": "05",
+   "label": "05 · Om Swastiastu",
+   "h1": "How do",
+   "h1it": "you say hello?",
+   "answer": "Om Swastiastu.",
+   "body": "A greeting and a small blessing in one, from Sanskrit for “may it be well”. Say it om swah-stee-AH-stoo.",
+   "credit_place": "Penjor in Ubud"
+  },
+  {
+   "kind": "item",
+   "img": "search:Tegallalang rice terraces Bali",
+   "num": "04",
+   "label": "04 · Suksma",
+   "h1": "And",
+   "h1it": "thank you?",
+   "answer": "Suksma.",
+   "body": "Say it SOOK-smuh, or matur suksma to be extra polite. Terima kasih works all over Indonesia, but suksma is Bali's own.",
+   "credit_place": "Bali"
+  },
+  {
+   "kind": "item",
+   "img": "commons:File:Canang_sari.jpg",
+   "num": "03",
+   "label": "03 · Canang sari",
+   "h1": "What are",
+   "h1it": "the little baskets?",
+   "answer": "Canang sari, daily offerings.",
+   "body": "Sari means “essence”. The flowers face the four directions: white east, red south, yellow west, blue or green north.",
+   "credit_place": "Canang sari"
+  },
+  {
+   "kind": "item",
+   "img": "commons:File:Bale_kulkul_di_sore_hari,_Bali,_Indonesia.jpg",
+   "num": "02",
+   "label": "02 · Banjar",
+   "h1": "Who runs",
+   "h1it": "the village?",
+   "answer": "The banjar.",
+   "body": "Every Balinese neighbourhood has one: a community that organises ceremonies, cares for temples and meets at its bale banjar hall.",
+   "credit_place": "Bale kulkul"
+  },
+  {
+   "kind": "item",
+   "img": "https://nyarastays.co/assets/images/yume/yume-drone-hero.jpg",
+   "num": "01",
+   "label": "01 · Bingin",
+   "h1": "What does",
+   "h1it": "Bingin mean?",
+   "answer": "Banyan tree.",
+   "body": "Bingin is the Balinese word for the banyan, a holy tree often wrapped in black-and-white cloth. It's also our clifftop on the Bukit.",
+   "credit": "Bingin: Yume by Nyara"
+  },
+  {
+   "kind": "cta",
+   "img": "https://nyarastays.co/assets/images/yume/villas/villa-dua-main.jpg",
+   "credit": "Villa Dua, Yume by Nyara, Bingin",
+   "eyebrow": "Now say it with us: suksma",
+   "h1": "Come home",
+   "h1it": "to Yume.",
+   "body": "Three private-pool villas above Bingin, each with its own gate and garden. From USD 135 a night.",
+   "button": "Link in bio to book your stay in Bali"
+  }
+ ]
+}
