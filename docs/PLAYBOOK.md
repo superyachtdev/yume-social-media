@@ -35,3 +35,7 @@ Use `commons:File:<exact name>` once you have checked the file exists and shows 
 
 ## Topic log
 - 2026-11-28 09:00 Madrid: 5 Bali beaches most people walk right past (Suluban, Gunung Payung, Green Bowl, Nyang Nyang, Impossibles)
+- 2026-11-28 20:00 Madrid: 5 Balinese dishes to eat before you leave (sate lilit, bebek betutu, lawar, babi guling, Jimbaran seafood)
+- 2026-11-29 09:00 Madrid: 5 Bali temples built by the sea (Sakenan, Goa Lawah, Rambut Siwi, Tanah Lot, Uluwatu)
+- 2026-11-29 20:00 Madrid: 5 Balinese words to learn before you land (Om Swastiastu, suksma, canang sari, banjar, bingin)
+- 2026-11-30 09:00 Madrid: 5 Bali waves worth watching (Medewi, Keramas, Batu Bolong, Padang Padang, Bingin)
