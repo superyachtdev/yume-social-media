@@ -92,8 +92,8 @@ def render(slides, out_dir):
     from playwright.sync_api import sync_playwright
     renderer = (ROOT / "scripts" / "renderer.js").read_text()
     page_html = ("<!doctype html><html><head><meta charset='utf-8'>"
-                 "<link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Manrope:wght@400;500;600&display=swap'>"
-                 "</head><body><span style=\"font-family:'Cormorant Garamond'\">a</span><i style=\"font-family:'Cormorant Garamond'\">a</i><span style='font-family:Manrope'>a</span></body></html>")
+                 "<link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Manrope:wght@400;500;600;700;800&display=swap'>"
+                 "</head><body><span style=\"font-family:'Cormorant Garamond'\">a</span><i style=\"font-family:'Cormorant Garamond'\">a</i><span style='font-family:Manrope'>a</span><b style='font-family:Manrope;font-weight:800'>a</b></body></html>")
     out_dir.mkdir(parents=True, exist_ok=True)
     with sync_playwright() as p:
         channel = os.environ.get("CHROME_CHANNEL", "chrome")

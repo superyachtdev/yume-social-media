@@ -8,7 +8,7 @@
    "kind": "hook",
    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Sunset_Bali_Uluwatu.jpg/1280px-Sunset_Bali_Uluwatu.jpg",
    "fy": 0.4,
-   "eyebrow": "ULUWATU · SAVE FOR YOUR TRIP",
+   "eyebrow": "Save this for your trip",
    "h1": "5 Bali beaches",
    "h1it": "most people walk right past.",
    "sub": "Number 1 is four minutes from our gate. Guess it before you get there.",
@@ -24,7 +24,8 @@
    "h1it": "way in?",
    "answer": "Under the cliff.",
    "body": "Suluban means “to pass under”. Walk down to Uluwatu Beach, then duck through the gap in the rock. Go at low tide: high water fills the cave.",
-   "credit": "Suluban. Photo: I Made Jon Arinata, CC BY-SA 4.0, via Wikimedia Commons"
+   "credit": "Suluban. Photo: I Made Jon Arinata, CC BY-SA 4.0, via Wikimedia Commons",
+   "label": "05 · Suluban, Uluwatu"
   },
   {
    "kind": "item",
@@ -35,7 +36,8 @@
    "h1it": "280 steps?",
    "answer": "Yes. Or ride the shuttle down.",
    "body": "A white-sand cove on the south coast, named for the clifftop temple above it. Shade in the caves at the back, and quieter than its famous neighbour, Pandawa.",
-   "credit": "Gunung Payung. Photo: Yosep Sasada, CC BY-SA 4.0, via Wikimedia Commons"
+   "credit": "Gunung Payung. Photo: Yosep Sasada, CC BY-SA 4.0, via Wikimedia Commons",
+   "label": "04 · Gunung Payung"
   },
   {
    "kind": "item",
@@ -47,7 +49,8 @@
    "h1it": "name?",
    "answer": "Look down at low tide.",
    "body": "About 300 steps lead to a 60-metre cove where the reef forms a green bowl. Caves at the back give shade. Watch your bag up top: the monkeys are quick.",
-   "credit": "Green Bowl. Photo: Vladimir E, CC BY 2.0, via Wikimedia Commons"
+   "credit": "Green Bowl. Photo: Vladimir E, CC BY 2.0, via Wikimedia Commons",
+   "label": "03 · Green Bowl, Ungasan"
   },
   {
    "kind": "item",
@@ -59,7 +62,8 @@
    "h1it": "is empty?",
    "answer": "1.5 km of sand. A few footprints.",
    "body": "Around 500 steps down on Bali's southern tip, with an old shipwreck at the far end. No lifeguards here, so read the water before you swim.",
-   "credit": "Nyang Nyang. Photo: Schweigeblick, CC BY-SA 4.0, via Wikimedia Commons"
+   "credit": "Nyang Nyang. Photo: Schweigeblick, CC BY-SA 4.0, via Wikimedia Commons",
+   "label": "02 · Nyang Nyang, Pecatu"
   },
   {
    "kind": "item",
@@ -70,17 +74,19 @@
    "h1it": "“Impossible”?",
    "answer": "The tide decides.",
    "body": "Between Bingin and Padang Padang, the sand only shows at low tide. Check a tide chart, then take the cliff path down. Yume sits four minutes' walk above it.",
-   "credit": "Above Impossibles: Yume by Nyara, Bingin"
+   "credit": "Above Impossibles: Yume by Nyara, Bingin",
+   "label": "01 · Impossibles, Bingin"
   },
   {
    "kind": "cta",
    "img": "https://nyarastays.co/assets/images/yume/villas/villa-dua-main.jpg",
-   "eyebrow": "NOW YOU KNOW WHERE TO SWIM",
+   "eyebrow": "Now you know where to swim",
    "h1": "Come home",
    "h1it": "to Yume.",
    "body": "Three private-pool villas on the clifftops of Bingin, four minutes on foot from Impossible Beach. From USD 135 a night.",
    "button": "Link in bio to book your stay in Bali",
    "credit": "Villa Dua, Yume by Nyara, Bingin"
   }
- ]
+ ],
+ "hold": true
 }

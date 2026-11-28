@@ -10,13 +10,13 @@ Automated Instagram carousels for Yume by Nyara (nyarastays.co/locations/yume.ht
 - CTA on the last slide: "Link in bio to book your stay in Bali".
 - Own photos (public): https://nyarastays.co/assets/images/yume/yume-drone-hero.jpg, .../yume/villas/villa-(tiga|satu|dua)-(main|a|b|c).jpg, .../yume/(781406037|352665482|352682722|352682723|352684018|352682726|352684021|411713773).jpg
 
-## Format (Boplo-style list carousel, Nyara look)
-7 slides, 1080x1350:
-1. Hook (kind "hook"): full-bleed photo, dark fade, eyebrow + big serif headline with italic second half + teaser line ("Number 1 is…", "Save this for…").
-2-6. Items counting down N° 05 → N° 01 (kind "item"): photo top, cream panel, place label, question headline (italic end), short answer in italic brown, 2-3 sentence body, photo credit.
-7. CTA (kind "cta"): Yume villa photo, "Come home *to Yume.*" style headline, one-line pitch, button "Link in bio to book your stay in Bali".
-Make item N° 01 tie back to Yume where honest (near Bingin/Uluwatu), so the CTA follows naturally.
-Fonts: Cormorant Garamond + Manrope. Colours: #0F0F0F, #4A3A2C, #F0EEE9, #5C5C5C.
+## Format (Boplo-style list carousel, bold look)
+7 slides, 1080x1350. Every slide: full-bleed photo, dark fade at the bottom, slide counter "2/7" top right, text bottom-left in Manrope.
+1. Hook (kind "hook"): optional sentence-case `eyebrow`, heavy headline `h1` + `h1it` (the second part is drawn in the warm accent colour), `sub` teaser line ("Number 1 is…"), "Swipe →".
+2-6. Items counting down 05 → 01 (kind "item"): `label` in accent, sentence case, e.g. "05 · Suluban, Uluwatu"; headline `h1` + accent `h1it` (a short question); `answer` (bold, short) runs straight into `body` (1-2 sentences); photo credit.
+7. CTA (kind "cta"): Yume villa photo, `eyebrow`, "Come home" + accent "to Yume.", one-line pitch, button "Link in bio to book your stay in Bali".
+Keep headlines short (2-6 words) so they stay big and blocky. Sentence case everywhere, no all-caps labels. The user prefers this bold sans look over serif: it reads less like AI.
+Colours: white text, accent #E6D3B8, dark fade #0A0806.
 
 ## Content rules
 **Tone: always show Bali in a good light.** Every carousel should make people fall a little more in love with Bali and want to go. Inform and delight: fun facts, little-known places, beautiful traditions, food, nature, "did you know" moments. Content people save, share and send to the friend they're travelling with.
