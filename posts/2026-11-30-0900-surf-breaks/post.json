@@ -12,11 +12,12 @@
    "eyebrow": "Save this for your trip",
    "h1": "5 Bali waves",
    "h1it": "worth watching.",
-   "sub": "No board needed. Number 1 is a ten-minute walk from our gate."
+   "sub": "No board needed. Number 1 is a ten-minute walk from our gate.",
+   "fy": 0.85
   },
   {
    "kind": "item",
-   "img": "search:Medewi Bali",
+   "img": "search:Medewi surfing",
    "num": "05",
    "label": "05 · Medewi, west Bali",
    "h1": "How long",
@@ -27,7 +28,7 @@
   },
   {
    "kind": "item",
-   "img": "search:Keramas Bali",
+   "img": "search:Keramas surfing",
    "num": "04",
    "label": "04 · Keramas, east coast",
    "h1": "Surfing",
@@ -49,7 +50,7 @@
   },
   {
    "kind": "item",
-   "img": "commons:File:Padang_Padang_Beach_Bali.jpg",
+   "img": "commons:File:Padang-Padang_Beach.jpg",
    "num": "02",
    "label": "02 · Padang Padang, the Bukit",
    "h1": "Bali's",
@@ -60,7 +61,7 @@
   },
   {
    "kind": "item",
-   "img": "search:Bingin beach Bali",
+   "img": "commons:File:Uluwatu_bingin_balangan_bali_travel_photos_wokshots-8813.jpg",
    "num": "01",
    "label": "01 · Bingin, the Bukit",
    "h1": "Where to",

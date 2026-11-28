@@ -16,7 +16,7 @@
   },
   {
    "kind": "item",
-   "img": "commons:File:Penjor_Galungan_Ubud_Bali_20120906b.jpg",
+   "img": "commons:File:Penjor_Galungan_Ubud_Bali_20120906a.jpg",
    "num": "05",
    "label": "05 · Om Swastiastu",
    "h1": "How do",
@@ -49,25 +49,25 @@
   },
   {
    "kind": "item",
-   "img": "commons:File:Bale_kulkul_di_sore_hari,_Bali,_Indonesia.jpg",
+   "img": "search:Bale banjar Bali",
    "num": "02",
    "label": "02 · Banjar",
    "h1": "Who runs",
    "h1it": "the village?",
    "answer": "The banjar.",
    "body": "Every Balinese neighbourhood has one: a community that organises ceremonies, cares for temples and meets at its bale banjar hall.",
-   "credit_place": "Bale kulkul"
+   "credit_place": "Bale banjar"
   },
   {
    "kind": "item",
-   "img": "https://nyarastays.co/assets/images/yume/yume-drone-hero.jpg",
+   "img": "search:Banyan tree Bali temple",
    "num": "01",
    "label": "01 · Bingin",
    "h1": "What does",
    "h1it": "Bingin mean?",
    "answer": "Banyan tree.",
    "body": "Bingin is the Balinese word for the banyan, a holy tree often wrapped in black-and-white cloth. It's also our clifftop on the Bukit.",
-   "credit": "Bingin: Yume by Nyara"
+   "credit_place": "Banyan tree, Bali"
   },
   {
    "kind": "cta",
